@@ -19,7 +19,7 @@ const Sdata = [
     id:"3",
     img:"https://picsum.photos/200/300?grayscale",
     span:"Amazon Series",
-    title:"theem",
+    title:"Theem",
     link:"https://www.netflix.com/in/"
 },
 {
@@ -34,7 +34,7 @@ const Sdata = [
     id:"5",
     img:"https://picsum.photos/200/300?grayscale",
     span:"Amazon Series",
-    title:"theem",
+    title:"Theem",
     link:"https://www.netflix.com/in/"
 },
 {
